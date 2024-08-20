@@ -31,6 +31,10 @@ StickerSmash는 사용자들이 이미지를 선택하고, 선택한 이미지 �
 
 ## 데모
 
-![GIFMaker_me](https://github.com/user-attachments/assets/d3b16b31-b036-4312-ba53-9b7fb31148cf)
+<video width="600" controls>
+  <source src="https://github.com/user-attachments/assets/92baf0bf-82df-4ec9-bac7-5b180f518dd1
+  " type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-> 실행 데모 영상을 볼 수 있습니다.
+> 위 이미지를 클릭하면 데모 영상을 볼 수 있습니다.
