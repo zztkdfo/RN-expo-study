@@ -28,7 +28,7 @@ StickerSmash는 사용자들이 이미지를 선택하고, 선택한 이미지 �
 ## 데모
 
 <video width="600" controls>
-  <source src="./video.mp4" type="video/mp4">
+  <source src="/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
