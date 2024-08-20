@@ -30,11 +30,7 @@ StickerSmash는 사용자들이 이미지를 선택하고, 선택한 이미지 �
   <br /><br />
 
 ## 데모
-
-<video width="600" controls>
-  <source src="https://github.com/user-attachments/assets/92baf0bf-82df-4ec9-bac7-5b180f518dd1
-  " type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[<img src="https://github.com/user-attachments/assets/00f48232-d839-4db9-a459-6e4e059c22f9" width="50%">](https://github.com/user-attachments/assets/92baf0bf-82df-4ec9-bac7-5b180f518dd1)
 
 > 위 이미지를 클릭하면 데모 영상을 볼 수 있습니다.
+
